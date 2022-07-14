@@ -1208,7 +1208,7 @@ div {
 }
 
 .sec05-left {
-  background-image: url("/dist/images/sec05-left.png");
+  background-image: url("../images/sec05-left.png");
   background-position: left top;
   background-size: cover;
 }
@@ -1233,7 +1233,7 @@ div {
 
 .btn01 {
   background-color: #b58b72;
-  background-image: url("/dist/images/button_bg01.png");
+  background-image: url("../images/button_bg01.png");
   background-size: contain;
   background-position: left center;
   background-repeat: no-repeat;
@@ -1241,7 +1241,7 @@ div {
 
 .btn02 {
   background-color: #f7a773;
-  background-image: url("/dist/images/button_bg02.png");
+  background-image: url("../images/button_bg02.png");
   background-size: contain;
   background-position: left center;
   background-repeat: no-repeat;
